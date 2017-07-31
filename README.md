@@ -9,7 +9,7 @@ Online tools like Resoomer, for example, seemed to miss a lot of context with Au
 This is part of the original GovHack project repo is here: [https://github.com/JesseChavez/papyrus](https://github.com/JesseChavez/papyrus) (open source MPL 2.0 license applies)
 #GovHack entry is here: https://2017.hackerspace.govhack.org/project/govdocs
 
-Feel free to test this script out on your docs :-)
+Feel free to test this script on your docs :-)
 Feel free to contact me, rebecca.merrett@gmail.com, for any feedback. I'm interested to see the results or any issues to keep improving it. 
 
 This will be properly integrated into the front end ([http://papyrus.jessechavez.info/#/documents](http://papyrus.jessechavez.info/#/documents)), and my team mate (Dany Chavez) and me will continue working on the project.
