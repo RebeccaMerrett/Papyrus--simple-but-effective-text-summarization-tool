@@ -6,7 +6,7 @@ This was built during a 46-hour hackathon ([GovHack](https://govhack.org/)), so 
 We were utilising NLTK, but needed more time to achieve good results. 
 Online tools like Resoomer, for example, seemed to miss a lot of context with Australian government transcripts. 
 
-This is part of the original GovHack project, which is here: [https://github.com/JesseChavez/papyrus](https://github.com/JesseChavez/papyrus) (open source MPL 2.0 license applies)
+This is part the GovHack project here: [https://github.com/JesseChavez/papyrus](https://github.com/JesseChavez/papyrus) (open source MPL 2.0 license applies)
 #GovHack entry is here: https://2017.hackerspace.govhack.org/project/govdocs
 
 Feel free to test this script on your docs :-)
